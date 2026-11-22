@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sae-audit"
+version = "0.1.0"
+description = "Evidence from sparse-autoencoder concepts for auditing a black-box LLM at inference time"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [{name = "Junbo Shen"}]
+requires-python = ">=3.9"
+dependencies = ["numpy", "scikit-learn"]
+
+[project.optional-dependencies]
+data = ["huggingface_hub", "pandas", "pyarrow"]
+encode = ["torch", "transformers", "huggingface_hub"]
+test = ["pytest"]
+
+[tool.setuptools]
+packages = ["sae_audit"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

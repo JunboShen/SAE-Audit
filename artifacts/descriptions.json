@@ -1,0 +1,771 @@
+{
+"374": {
+"name": "Growth factor/restriction mentioned",
+"description": "Growth factors or growth restriction criteria apply to participants",
+"long": "Growth factors or growth restriction criteria apply to participants: protocols mentioning growth or proliferation of tumors, children, or cells; therapeutic modulation of growth pathways; growth as a measured endpoint; and regulatory or mechanistic language on growth factors or inhibitors"
+},
+"510": {
+"description": "This protocol property tells a clinician that every participant in the trial received the same unchanging dose of the intervention from start to finish, meaning the study was desig",
+"long": "Every participant receives the same fixed, named-intervention dose or device with no titration, as shown in registry dosage fields, numeric thresholds, and protocol-like lists specifying drugs, vaccines, or measurement parameters"
+},
+"1520": {
+"description": "This trial enrolled a population without pre-existing heart or lung disease, so its findings may not apply to patients who have such conditions.",
+"long": "This trial excludes participants with any current or past cardiopulmonary disease, enrolling a population without pre-existing heart or lung conditions. It studies a condition or intervention that can impair breathing, monitors respiratory rate or distress as an endpoint, and lists a respiratory"
+},
+"2374": {
+"name": "Organ dysfunction/disease exclusion",
+"description": "Excludes patients with significant cardiac, renal, or hepatic dysfunction",
+"long": "Excludes patients with significant organ system dysfunction or disease, including cardiac, renal, or hepatic impairment; also screens for allergic/respiratory hypersensitivity, restricts concurrent medication use, and requires hospitalization or inpatient surgery"
+},
+"2550": {
+"name": "SOC or medical care mentioned",
+"description": "Involves masking of care providers or investigators",
+"long": "Involves standard-of-care or medical-care contexts where a caregiver or proxy decides alongside pediatric patients, within routine clinical settings, using defined enrollment criteria and a transition point between care phases"
+},
+"3725": {
+"name": "Mentions specific drug names or lab thresholds",
+"description": "This protocol property tells a clinician that the trial focuses on particular medications and defined laboratory cutoff values, meaning the study population is selected or monitore",
+"long": "Focuses on specific named drugs and defined lab thresholds, as seen in registry-style trial records listing condition, intervention, and phase, with dense technical prose referencing monoclonal antibodies or targeted biologics by name"
+},
+"4204": {
+"description": "A prior treatment must end before starting the study intervention",
+"long": "A protocol-mandated washout or stabilization interval separates a prior intervention from study entry, expressed as time-window eligibility criteria, inclusion/exclusion cutoff values, procedural sequencing constraints, structured registry fields, and requirements that baseline tests or biopsies"
+},
+"4242": {
+"description": "This protocol property tells a clinician the specific numerical cutoff or acceptable range for a laboratory or clinical measurement that defines eligibility, disease status, or tre",
+"long": "Defines a quantitative lab or clinical threshold/range, applied in trials of neuroactive or neuromuscular drugs comparing active interventions or dosing regimens, including pharmacokinetic differences across demographic groups, with structured drug identifiers, and assessing perioperative or"
+},
+"4287": {
+"description": "Requires specific tumor staging or genetic mutation status",
+"long": "Requires specific tumor staging or genetic mutation status, determined via biomarker or lab testing, with restrictions on prior/concurrent medications. Uses structured clinical notation and involves targeted or biologic therapy"
+},
+"4764": {
+"name": "Prior inhaled medication use",
+"description": "The trial population includes patients who have previously used inhaled medications, indicating the study focuses on individuals with existing respiratory treatment experience.",
+"long": "Describes prior treatment or medication history: patients with existing inhaled respiratory therapy experience, enrolled under exclusionary or exposure-based eligibility criteria, receiving investigational aerosol/vapor products via non-gastrointestinal routes in a safety, tolerance, and"
+},
+"5160": {
+"description": "This protocol property tells a clinician that the trial enrolled a narrowly defined patient group, so its findings apply only to patients who meet those exact diagnostic criteria.",
+"long": "Uses narrowly defined eligibility criteria, including quantitative thresholds, required physical exam findings, specified anatomical regions, and established classification-system diagnostic criteria"
+},
+"5633": {
+"name": "COVID-19 diagnosis/treatment",
+"description": "Involves interventions for COVID-19 or its symptoms",
+"long": "Involves interventions for COVID-19 or its symptoms, using an investigational treatment for a viral respiratory illness, with disease severity graded on a structured ordinal scale and key details deferred to a master protocol or appendix"
+},
+"5917": {
+"description": "Excludes patients with prior organ or stem cell transplants",
+"long": "Excludes patients with prior organ or stem cell transplants. The trial involves a surgically placed medical device with MRI safety precautions, requires pregnancy prevention or contraception, and formats eligibility criteria using asterisk-bulleted lists"
+},
+"6219": {
+"description": "Excludes people prone to bleeding or bruising complications",
+"long": "Excludes people prone to bleeding or bruising complications, including those with bleeding or coagulation disorders, pre-existing skin or wound conditions, implanted electronic devices, psychological or sensory intolerance to procedures, or relevant allergies"
+},
+"6631": {
+"name": "Cognitive or neurological assessment",
+"description": "This protocol property tells a clinician that the trial includes formal testing of brain functions—such as memory, attention, language, or executive skills—to characterize or monit",
+"long": "The trial includes formal cognitive or neurological assessment criteria to characterize or monitor a brain-based psychiatric or neurological condition, using a specific measurable physiological or cognitive method, with abbreviations for the condition or tool, in a scientific summary or rationale"
+},
+"7795": {
+"description": "Allows enrollment despite certain prior procedures or treatments",
+"long": "Allows enrollment despite certain prior procedures or treatments, with narrow exceptions to broad exclusions, including defined washout periods, specific lab thresholds, and strict contraceptive or sterility requirements, while still excluding certain vulnerable or legally protected populations"
+},
+"7932": {
+"description": "This protocol property tells a clinician that the trial’s results may not apply to patients who have significant psychiatric or cognitive conditions, as such individuals were not i",
+"long": "Excludes participants with significant psychiatric or cognitive disorders, per DSM/standardized criteria, as listed in the eligibility section; trial results may not generalize to these patients"
+},
+"8542": {
+"description": "This protocol property tells a clinician that the trial restricts or controls substances that could alter how the body absorbs the study treatment, meaning the enrolled population ",
+"long": "Restrictions on supplements, medications, or allergies affecting absorption: the trial uses a specific dietary or nutritional intervention with precise quantitative intake limits, a structured pre-defined feeding regimen or supplement formula, and specifies a medical condition affecting nutrient"
+},
+"8961": {
+"description": "This trial requires participants to avoid pregnancy for a set period, indicating the study involves an intervention with potential reproductive risks.",
+"long": "Requires contraception or abstinence for a specified duration, expressed as formal eligibility criteria, agreements, or commitments in structured registration language, with implied patient consent or compliance and assumed future obligation"
+},
+"9817": {
+"description": "This protocol property tells a clinician that every participant in the trial receives the exact same amount of the study drug, ensuring uniform exposure across the population.",
+"long": "Every participant receives the same fixed amount of drug, with concentration specified as percentage or weight per volume, a defined maximum dose or volume, and structured intervention names including parenthetical measurement clarifications"
+},
+"10276": {
+"name": "Investigator discretion for non-medical exclusions",
+"description": "This protocol property tells a clinician that the trial allows investigators to exclude certain patients for practical or administrative reasons, meaning the enrolled population ma",
+"long": "Investigators may exclude patients for non-medical reasons, using clinical or logistical exclusion lists, named-authority approval, and specialist judgment rather than fixed thresholds, with procedural details on samples, dosing, or follow-up shaping eligibility"
+},
+"10439": {
+"description": "Involves an agent that modulates immune function",
+"long": "Evaluates an immunomodulatory agent or vaccine requiring immune assessment, per structured trial registrations, biomarker-based eligibility criteria, monoclonal or targeted immune therapies, and regulatory or diagnostic assay validation"
+},
+"11816": {
+"name": "Ophthalmic condition or treatment",
+"description": "Trial involves eye diseases or treatments",
+"long": "Ophthalmic or ocular condition or treatment trial with structured eligibility criteria covering age, diagnosis, and consent, plus medical exclusions for systemic conditions or contraindications; compares branded versus generic ophthalmic formulations, with formatting artifacts such as bullets, bold"
+},
+"11820": {
+"description": "This protocol property tells a clinician that the trial population consists of patients who have already received specific prior treatments, meaning the study is designed for a tre",
+"long": "The trial enrolls patients with prior therapy or treatment history, defining conditions and drug abbreviations in plain language, specifying numeric inclusion thresholds, and referencing named standard-of-care regimens"
+},
+"12268": {
+"name": "Requires cancer diagnosis and cancer-directed treatment",
+"description": "This protocol property tells a clinician that the trial is designed specifically for patients who have both a confirmed cancer diagnosis and are actively receiving treatment aimed ",
+"long": "The trial restricts eligibility to patients with a confirmed cancer diagnosis who are actively receiving treatment, using explicit inclusion/exclusion criteria and diagnostic thresholds tied to a specific disease or anatomical site"
+},
+"13545": {
+"description": "Tracks tumor changes through repeated imaging",
+"long": "Assesses tumor response or progression by serial imaging, while explaining the drug’s molecular mechanism and the biological rationale linking its target pathway to tumor growth, with plain-language summaries of relevant proteins or pathways"
+},
+"14188": {
+"name": "Refractory to prior therapy required",
+"description": "Patients must have failed a specific prior treatment at a sufficient dose",
+"long": "Patients must have failed a specific prior therapy at an adequate dose, typically after exhausting standard first-line options, with severe or advancing disease despite treatment, providing clinical justification for trial entry"
+},
+"14391": {
+"description": "Cancer diagnosis must be proven by tissue examination",
+"long": "Cancer diagnosis must be proven by tissue examination, using specialized laboratory techniques and molecular or microscopic findings; eligibility requires a lesion accessible for repeated biopsy, with multiple assay names and abbreviations listed together"
+},
+"14433": {
+"description": "This protocol property tells a clinician that the trial compares the new treatment against the currently accepted best practice used in routine clinical care for that condition.",
+"long": "Compares the intervention against current standard-of-care practice, explicitly naming the accepted treatment or diagnostic protocol as the comparator or baseline. It also includes a formal, operationalized eligibility criterion and follows a structured, registry-style format"
+},
+"14774": {
+"description": "Cancer stage is advanced or metastatic, or prior treatment is specified",
+"long": "Advanced or metastatic cancer, or specified prior treatment, in a study of a branded drug positioned as an advancement over current care, with metadata structured by colons or dashes"
+},
+"15028": {
+"name": "Proprietary drug product named by brand/formulation",
+"description": "This protocol property tells a clinician that the trial is testing a specific, commercially branded formulation of the drug rather than a generic or chemically equivalent version.",
+"long": "The protocol names a specific manufacturer’s proprietary drug product by brand and formula, using formal registration-style language with structured lists, numeric strengths, volumes, or dosing schedules, and references to branded or generic drug names and manufacturers"
+},
+"15033": {
+"name": "ECOG or life expectancy criteria",
+"description": "Patients must meet a minimum functional ability threshold",
+"long": "Patients must meet a minimum functional ability threshold, assessed via detailed performance status; the protocol includes structured eligibility criteria, pharmacokinetic analysis, and applies to a neurodevelopmental or psychiatric condition"
+},
+"15235": {
+"name": "Investigator risk assessment",
+"description": "Investigator judges whether a condition could confound trial participation or data",
+"long": "Investigator’s opinion of risk or interference: eligibility framed as inclusion/exclusion criteria, with age, sex, or pregnancy defining the population; clinical or surgical context requiring a procedure or assessment; structured fields or bullet points; and investigator judgment of patient"
+},
+"15859": {
+"name": "Functional status/ organ function endpoint",
+"description": "Measures how well organs or daily abilities work",
+"long": "Measures functional status or organ function as an endpoint, using formal protocol language on interventions and assessment timeframes, with eligibility framed as deficits, exclusions, or required baseline status, and structured registration formatting rather than topic content"
+},
+"16823": {
+"description": "Lesions must be reachable for required procedures or biopsies",
+"long": "Lesions must be anatomically accessible for the protocol-mandated procedure or biopsy. Eligibility hinges on technical suitability of the target body part, with itemized inclusion criteria specifying measurements or descriptive anatomy, and exclusion of participants with contraindicated conditions"
+},
+"17248": {
+"description": "Clinician judgment that a condition makes participation inappropriate",
+"long": "Clinician judgment that a condition makes participation inappropriate, expressed through exclusion/inclusion criteria, expanded abbreviations, bulleted requirements, and dense technical prose specifying participant capability, access, or willingness to comply"
+},
+"17788": {
+"description": "This protocol property indicates that the trial involves a medically complex intervention that requires specialized clinical settings and personnel, meaning the enrolled population",
+"long": "The protocol specifies an invasive surgical procedure performed under general or regional anesthesia, using minimally invasive or specialized instrumentation, with a structured intraoperative drug regimen naming specific medications"
+},
+"18944": {
+"name": "Bone-related criteria",
+"description": "Bone marrow status is assessed to determine disease presence or remission",
+"long": "Assesses bone marrow function in hematologic malignancies or failure disorders, using drug names/formulations and parenthetical clarifications within trial eligibility criteria to determine disease presence or remission"
+},
+"19112": {
+"name": "ECOG ≤ [threshold] required at screening",
+"description": "Patients must have good functional status, with ECOG scores of 0 to 2",
+"long": "The protocol requires an ECOG performance status of 0–2 for eligibility in this advanced/metastatic cancer trial, as specified in the inclusion/exclusion criteria"
+},
+"19133": {
+"description": "Lab values are not specified in these excerpts",
+"long": "Lab value thresholds with units and ranges are not specified; instead, structured metadata and machine-readable trial record sections present administrative descriptors—masking, intervention arms, and bulleted key-value pairs—as discrete data points rather than narrative prose"
+},
+"19244": {
+"description": "This protocol property tells a clinician that the trial only includes women of childbearing age who agree to use specified birth control methods, indicating the study population is",
+"long": "Women of childbearing potential may enroll only if they agree to protocol-specified contraception; eligibility criteria define reproductive status by sex and age, with consent and compliance requirements for pregnancy prevention and study adherence"
+},
+"20148": {
+"description": "This trial only enrolls patients whose cancer is not currently worsening, meaning the findings apply to a clinically stable population rather than to those with rapidly progressing",
+"long": "This trial enrolls clinically stable cancer patients, requiring washout from certain substances or medications, including psychiatric/neurological agents, and adherence to specific procedural logistics; eligibility criteria are presented in dense, fragmented bullet points"
+},
+"21366": {
+"description": "Compares at least two proprietary drugs",
+"long": "Compares at least two proprietary drugs in structured group or arm formats, with specific drug combinations, dosing schedules, and inclusion criteria referencing prior therapies and disease status markers, presented in registry-style field labels and punctuation"
+},
+"21707": {
+"description": "This protocol property tells a clinician that the trial’s eligibility or assessment depends on how patients themselves rate their own health or quality of life.",
+"long": "The trial uses patient-reported health status or quality-of-life assessments in a psychiatric or neurological condition, with age-based eligibility restrictions and required self-report measures, presented in a structured, bullet-point format"
+},
+"21941": {
+"description": "Participants with permanent stomach structural abnormalities cannot enroll",
+"long": "Participants with permanent stomach structural abnormalities are excluded, along with those having other pre-existing anatomical abnormalities, malignant or pre-malignant conditions, active or prior infections, and current or recent pregnancy or menopause-related states, per a dense itemized list"
+},
+"22183": {
+"name": "Investigator-discretion enrollment and treatment",
+"description": "Investigator judgment determines treatment and patient eligibility",
+"long": "Investigator discretion governs treatment and eligibility, including clinician-judged treatment decisions, patient refusal or opt-out as an eligibility factor, and risk–benefit assessment for a vulnerable subgroup. A long-term behavioral restriction applies, with criteria written in a hybrid"
+},
+"22855": {
+"name": "Geographic or institutional location mentioned",
+"description": "Involves specific countries, regions, or sites",
+"long": "Involves specific countries, regions, or sites, often outside typical Western settings, with residency-based eligibility exclusions, formal registry formatting, diseases or treatments uncommon in high-income countries, and resource-limited or specialized healthcare environments"
+},
+"22985": {
+"description": "This protocol property tells a clinician that the trial’s treatment path for a given patient may change depending on that patient’s own test results or on whether a suitable donor ",
+"long": "Treatment path branches on test results or donor availability: enrollment requires mandatory eligibility, excludes current/untreated/newly diagnosed status, and frames an unmet need while assessing long-term safety or residual disease via specified intervention/sample procedures"
+},
+"23424": {
+"description": "This protocol property tells a clinician how long patients are expected to receive the study treatment or be followed, which helps define the treatment period and the timeframe for",
+"long": "Specifies the treatment or follow-up duration, including dosing schedules, phase labels, and eligibility staging, often justified by rationale statements or comparisons to an approved regimen"
+},
+"23519": {
+"description": "Thrombotic or vascular conditions are exclusionary or defining diagnoses for trial eligibility",
+"long": "Thrombotic or vascular conditions define or exclude eligibility in trials involving surgical or invasive procedures for patients with serious, life-threatening illness, where hematological or biochemical thresholds appear in fragmented, list-like structured criteria"
+},
+"23799": {
+"name": "Vitamin D or A supplementation",
+"description": "This protocol property indicates that the trial is designed to compare the effects of giving participants either vitamin D or vitamin A, rather than testing them against a placebo ",
+"long": "The protocol enforces a washout or exclusion window for high-dose dietary supplements, using micronutrient thresholds in eligibility criteria, biomarker cutoff values, and lists of prohibited substances before enrollment to compare vitamin D versus vitamin A rather than placebo"
+},
+"24082": {
+"description": "This protocol property tells a clinician that the trial only enrolled patients whose prior or ongoing treatments met specific restrictions, meaning the study population may not ref",
+"long": "The protocol restricts eligibility by broad therapeutic class or mechanism—not named drugs—selecting patients by disease subtype or prior/concurrent therapy type, with hedging about practice variation, so the enrolled population may not reflect general clinical use"
+},
+"24411": {
+"description": "Requires participants to have received specific prior treatments",
+"long": "Requires participants to have received specific prior treatments. The protocol concerns a drug or biological intervention for a disease affecting a particular body part or system, with age-related eligibility criteria, structured data fields, and assessment of treatment effect on a symptom or"
+},
+"24663": {
+"description": "It defines measurable thresholds for lab values, imaging grades, or diagnostic criteria",
+"long": "Defines measurable eligibility thresholds using numeric lab ranges with units and comparison operators, parenthetical diagnostic abbreviations, conditional “must”/“or” exclusions, and structured dash-semicolon lists, with disease subtype or staging qualifiers attached to histology, risk, or"
+},
+"24714": {
+"description": "This protocol property tells a clinician that the trial only enrolls patients whose laboratory values fall within specific numeric ranges, meaning the study population is restricte",
+"long": "Eligibility requires meeting protocol-defined numeric thresholds on specified laboratory values, as shown in structured data fields within a clinical trial protocol that targets a specific disease state and includes quantitative, measurable clinical parameters"
+},
+"24769": {
+"name": "Specifies commercial drug product and manufacturer",
+"description": "This protocol property tells a clinician that the trial uses a commercially available, branded medication from a specific manufacturer, meaning the drug is already marketed and its",
+"long": "The protocol specifies a commercially available, branded drug product with its manufacturer and manufacturing details, presented in a structured, regulatory-style trial record using dense technical terminology and explicit eligibility or exclusion criteria"
+},
+"24799": {
+"description": "This protocol property indicates that the trial includes patients who are already receiving long-term treatment to keep their disease under control.",
+"long": "Requires stable or ongoing treatment with no expected changes: continuation of therapy or a study phase beyond initial assessment, including maintenance after induction, described through temporal extension, passive sustained-administration language, and trial-register phrasing signaling a"
+},
+"25386": {
+"name": "Uses standardized diagnostic criteria",
+"description": "Requires standardized scales to assess patient eligibility",
+"long": "Uses standardized diagnostic scales or criteria to determine eligibility, including quantitative lab/exam thresholds, cancer staging, precise medication/dosing details, and dense itemized technical criteria"
+},
+"26666": {
+"description": "This protocol property indicates that the trial population is restricted to individuals without psychiatric or social conditions that could interfere with their ability to follow t",
+"long": "Excludes individuals whose psychiatric illness or social situation may limit compliance, including inability to provide valid consent, unstable/severe medical conditions, pregnancy or reproductive restrictions, or investigator-judged unsuitability; criteria are list-formatted"
+},
+"27001": {
+"description": "This protocol property tells a clinician that the trial is testing several predetermined dose levels, each given to a separate group of participants, to evaluate how different fixe",
+"long": "The protocol evaluates multiple fixed dose levels of a single investigational product, with patients hierarchically grouped by disease severity or condition stage and assigned to numbered or lettered dose cohorts across sequential study periods"
+},
+"28332": {
+"description": "This protocol property tells a clinician that the trial only includes patients whose condition has reached a certain level of severity, specifically pain or infection, ensuring the",
+"long": "Enrollment requires a minimum pain severity score or confirmed clinical infection. The protocol specifies pain as a measured outcome, uses inclusion/exclusion lists, and includes structured metadata such as intervention names or chemical identifiers"
+},
+"28647": {
+"name": "Drugs of abuse",
+"description": "This protocol property indicates that the trial is specifically designed to study individuals who use or are dependent on illicit or non-medical substances.",
+"long": "The trial studies a drug with abuse or dependence potential, explicitly excluding participants based on substance use or psychiatric history, and lists specific pharmaceutical interventions by brand or chemical name in a structured, technical list of criteria"
+},
+"29440": {
+"description": "This protocol property tells a clinician that the trial restricts participation based on when a patient’s condition began or how long it has lasted, meaning the findings apply only",
+"long": "Restricts enrollment by symptom duration or onset timing, using frequency/severity thresholds, baseline clinical scores, prior treatment history, and structured registry arms to define eligible time windows"
+},
+"29642": {
+"name": "Illicit drug use or use disorder",
+"description": "This protocol property tells a clinician that the trial specifically includes people who currently use illicit drugs or have a drug use disorder, meaning the study population refle",
+"long": "Enrollment excludes participants based on cannabis use frequency, recency, or amount, within a structured trial focused on substance use or addiction, using dense regulatory language and explicit drug names"
+},
+"29760": {
+"description": "This trial restricts enrollment to patients without significant kidney disease, recent major surgery, or serious psychiatric conditions, so its findings may not apply to those grou",
+"long": "The protocol enforces laboratory-value thresholds and comorbidity-specific exclusions for neurological or psychiatric trials, imaging-based studies, and risk-defined eligibility, restricting enrollment to patients without significant kidney disease, recent major surgery, or serious psychiatric"
+},
+"30992": {
+"description": "This protocol property tells a clinician that the trial allows flexibility in how the treatment is given, meaning the study population may include patients who can manage their own",
+"long": "The protocol permits investigator discretion in treatment administration, involving a therapy with known systemic risks in a population defined by specific lab thresholds, where standard first-line therapy exists and the design is explicitly preparatory for future research"
+},
+"31368": {
+"description": "Enrollment depends on meeting specific risk or test criteria",
+"long": "Enrollment is conditional on meeting specific risk or test criteria, with the protocol detailing a planned substance administration over a defined period, its rationale, and structured formatting such as bullet points or section headers"
+},
+"31558": {
+"name": "Functional capacity or daily activity level",
+"description": "This protocol property tells a clinician that the trial is designed for patients whose ability to perform routine physical tasks and carry out everyday activities is either a defin",
+"long": "Measures functional capacity or daily activity level: the trial requires a baseline level of independent daily functioning, described as a structured eligibility criterion with a minimum cognitive or performance score threshold for enrollment"
+},
+"31807": {
+"description": "This protocol property tells a clinician the specific numerical cutoff or allowable range used to define eligibility or a clinical parameter in the trial population.",
+"long": "Defines quantitative thresholds or ranges for biomarkers and measurements, expressed through structured protocol schedules, bulleted eligibility criteria, procedural device parameters, and registry-style abbreviations"
+},
+"32099": {
+"description": "This protocol property tells a clinician that the trial is designed to evaluate a specific medical test or measurement as part of its assessment of the study population.",
+"long": "A protocol property indicating a specific medical test or measurement, presented in a formal, structured clinical trial title beginning with “A” and a noun phrase, using registry-style capitalization and punctuation, with a detached institutional tone signaling a comparative, interventional, or"
+},
+"32404": {
+"description": "This protocol property tells a clinician that the trial only enrolls patients who have not previously received certain treatments, meaning the study population is restricted to tho",
+"long": "The trial restricts enrollment to patients without prior use of specified CNS-active medications or substances, as stated in the eligibility criteria of a psychiatric or neurological study record"
+},
+"32439": {
+"description": "This protocol requires clinicians to confirm that the potential benefits of the trial treatment outweigh the risks for pregnant individuals before they can be enrolled.",
+"long": "Enrollment requires a documented risk-benefit justification for pregnant or lactating individuals. This randomized, controlled, or blinded trial compares two or more active treatments, explicitly testing superiority or non-inferiority with a formal hypothesis and proposed outcome in structured,"
+},
+"32679": {
+"name": "Numeric lab/score threshold or range",
+"description": "Defines acceptable lab values or scores for participant eligibility",
+"long": "Defines acceptable lab values or scores for participant eligibility, using precise numeric thresholds, exact units and ranges, and quantified physiological or biochemical criteria, often with parenthetical cutoffs and abbreviations"
+},
+"32680": {
+"name": "Numeric threshold/range specified",
+"description": "Restricts enrollment using specific quantitative health thresholds",
+"long": "Restricts enrollment via specific quantitative health thresholds, using numeric ranges as inclusion or exclusion criteria in terse bullet-like fragments, with quantified physiological or disease-severity parameters embedded in parenthetical or list structures"
+},
+"33001": {
+"description": "Combines a systemic anticancer drug with radiotherapy",
+"long": "Combines a systemic anticancer drug with radiotherapy, described in dense, jargon-heavy clinical language featuring pharmaceutical or biological intervention details and laboratory or diagnostic test names"
+},
+"33173": {
+"description": "Dual consent is required, with re-consent triggered by certain events",
+"long": "Dual consent (assent plus parental permission) is required, with re-consent triggered by certain events; registry entries list structured metadata, study phases, timelines, and bracketed condition synonyms, mixing clinical rationale with administrative trial details in extracted-data format"
+},
+"33466": {
+"name": "Psychiatric or substance use disorder exclusions",
+"description": "Excludes patients with psychiatric conditions or substance use disorders",
+"long": "Excludes patients with psychiatric or substance use disorders, including DSM-defined diagnoses, heavy drinking or drug use thresholds, and addiction screening, as listed in registry eligibility criteria"
+},
+"33742": {
+"name": "Dermatological conditions or treatments",
+"description": "This trial is restricted to patients with skin-related diseases or those receiving skin-directed therapies, so its findings apply only to dermatologic populations.",
+"long": "This trial involves a topical product applied to the skin, assessing local tolerability or irritation potential, including an adhesive component or patch delivery system, and excludes participants with pre-existing skin conditions"
+},
+"33801": {
+"name": "Contraception/pregnancy restrictions",
+"description": "Requires contraception or excludes pregnancy in eligible participants",
+"long": "Requires contraception or excludes pregnancy in eligible participants, as stated in clinical trial eligibility language and sex-specific inclusion/exclusion criteria; includes “male” modifiers in demographic context and list-, note-, or bullet-style protocol formatting"
+},
+"33818": {
+"description": "Follow-up starts at each participant's own enrollment or treatment initiation",
+"long": "Follow-up begins at each participant’s own enrollment or treatment initiation, with age-based eligibility, a defined enrollment measurement range, acceptable screening findings, and a repeated schedule of interventions or assessments, presented in a fragmented, list-like format"
+},
+"34948": {
+"description": "This protocol property tells a clinician that the trial involves particular interventions or tools—such as surgeries, implants, or monitoring equipment—that define the treatment ap",
+"long": "The protocol specifies particular interventions or devices, using parenthetical abbreviations, subtype-based condition definitions, and numeric lab values or staging classifications in dense technical eligibility or methods text"
+},
+"35041": {
+"name": "Branded product named as agent",
+"description": "This protocol property indicates that the trial is using a specific commercially available, brand-name medication rather than a generic or unnamed formulation, which tells the clin",
+"long": "The protocol mandates a specific manufacturer’s branded product as the named investigational drug, evidenced by proprietary brand names, dosages, and formal regulatory trial language with structured citations"
+},
+"35045": {
+"description": "Assesses quality of life or emotional well-being",
+"long": "The protocol specifies a patient-reported outcome measuring quality of life or emotional well-being, targeting a condition that significantly reduces quality of life and presents a serious, hard-to-treat clinical deficit with limited options, as described in the background or rationale"
+},
+"35647": {
+"name": "Abstinence requirements",
+"description": "This protocol property tells a clinician that the trial only enrolled participants who were not currently using the substance or behavior being studied, meaning the results apply t",
+"long": "Restricts enrollment based on pregnancy, breastfeeding, or contraceptive status, and requires abstention from food, alcohol, or drugs; specifies stable regimens, fasting, or dietary control as formal inclusion/exclusion criteria"
+},
+"35677": {
+"description": "Only includes people with a specific chronic inflammatory lung disease",
+"long": "Enrollment is limited to patients with a specific chronic inflammatory lung disease, with genetic or antigen-based selection criteria; endpoints assess cellular and humoral immune responses, while itemized clinical complications and referenced cell lines, receptors, molecular targets, and branded"
+},
+"36133": {
+"name": "Cardiac history or medications",
+"description": "Cardiac arrhythmia or related medications exclude patients from participation",
+"long": "Excludes patients with cardiac conditions or abnormalities, including arrhythmias and related medications, based on cardiovascular safety concerns; cardiac findings determine eligibility, with criteria listed as fragmented medical phrases"
+},
+"36177": {
+"description": "This trial requires that each potential participant be reviewed and approved by a central committee before enrollment, ensuring uniform application of entry criteria across all sit",
+"long": "Enrollment requires prospective, case-by-case eligibility adjudication by a sponsor medical reviewer, using inclusion/exclusion lists, age thresholds, and consent/assent with guardians; exceptional cases undergo medical monitor or PI review, formatted with bolded labels, semicolons, and enumerated"
+},
+"36292": {
+"name": "Healthy volunteers and patients eligible",
+"description": "Enrolls both healthy volunteers and participants with the target condition",
+"long": "Enrolls both healthy volunteers and participants with the target condition in an early-phase (Phase 1/2) trial, with eligibility criteria presented under structured, bolded labels and a minimum age specified as a concrete number or “None.”"
+},
+"37250": {
+"name": "Enrichment design with scale-based cutoff",
+"description": "Eligibility requires a validated scale score meeting a prespecified cutoff",
+"long": "Eligibility requires a prespecified cutoff score on a validated rating scale, applied as a numerical threshold for symptom severity or a composite of scored factors, with criteria listed as structured items and screening via a validated questionnaire"
+},
+"37479": {
+"description": "This protocol property tells a clinician that the trial is testing a treatment with no established benefit in patients whose condition has not responded to standard therapies.",
+"long": "Tests an intervention of unestablished benefit in patients refractory to standard therapy, encompassing a named drug, device, technique, or digital/diagnostic aid, with exclusions for technological literacy or prior study involvement"
+},
+"37711": {
+"description": "Women of childbearing potential must test negative for pregnancy and use contraception",
+"long": "Women of childbearing potential require negative pregnancy testing and contraception; trial includes infants/neonates, rare congenital disease, prophylactic vaccine, and dense multispecialty terminology"
+},
+"38591": {
+"description": "This protocol property tells a clinician the allowable timing before or after treatment during which each study procedure or assessment must occur for a participant.",
+"long": "Time windows before or after treatment define when each procedure or assessment must occur, expressed as structured eligibility or dosing conditions with precise numerical thresholds for symptoms, doses, or timing, including regimens with repeated or consecutive administrations"
+},
+"39410": {
+"description": "This trial requires participants to stop certain prior medications for a set period before starting the study treatment, meaning the enrolled population consists of patients who ca",
+"long": "This protocol mandates a prospectively defined, calendar-time–based washout or run-in period, enforced as a strict pre-enrollment washout. It also excludes participants based on specific procedure/device history and requires reliable access to communication technology, with eligibility criteria"
+},
+"39878": {
+"name": "Drug administration restrictions",
+"description": "This property tells a clinician which patients or situations require caution or avoidance when giving the drug, such as with food, other medications, or specific health conditions.",
+"long": "Contraception or drug interaction restrictions: oral dosage forms, swallowability, excipient hypersensitivity, and placebo-matched formulations define which patients or situations require caution or avoidance"
+},
+"40029": {
+"name": "BMI or weight-related comorbidity enrollment criterion",
+"description": "This trial only enrolls patients whose body weight or weight-related health conditions meet a specific threshold, meaning the findings apply to a heavier or metabolically burdened ",
+"long": "This trial enrolls only patients meeting a body mass index or documented weight threshold, with obesity as a comorbidity or risk. It excludes based on medication use or medical history, and lists criteria in structured, bullet-point format"
+},
+"40319": {
+"name": "Investigator-discretion exclusions",
+"description": "Investigators can exclude participants based on their clinical judgment of safety risks",
+"long": "Investigators may exclude participants based on clinical judgment of safety risks, with eligibility criteria phrased as discretion exceptions, hyphenated medical exclusion fragments, prose-embedded numeric inclusions, and safety screening before enrollment"
+},
+"40339": {
+"description": "The trial’s schedule is tied to a specific clinical event",
+"long": "The trial’s schedule is anchored to a specific index clinical event, with formal registration language detailing disease-specific prevalence or risk in patient subgroups and protocol-defined dosing terminology"
+},
+"40687": {
+"description": "This trial only enrolls patients whose dopamine function can be directly measured, meaning its findings apply specifically to individuals with assessable dopaminergic activity rath",
+"long": "Enrollment requires meeting DSM-based substance use disorder criteria and excludes current use, in a trial involving neuroimaging or direct brain measurement, administering a drug or substance with a sham/placebo control, and containing structured database metadata"
+},
+"40950": {
+"description": "This protocol property tells a clinician that the trial only includes patients who are willing and able to follow the study's required procedures and instructions.",
+"long": "Requires patient agreement or compliance: participants must self-monitor or report symptoms outside visits, use a personal device or digital tool, complete structured logs or diaries, and have sufficiently complete existing records to quantify subjective symptoms via standardized scales"
+},
+"41589": {
+"description": "Participants must use birth control during the study",
+"long": "Participants must use birth control during the study, as indicated by structured metadata with hyphen-separated key-value fields, numeric counts and coded values under intervention and masking labels, and repetitive “MaskingType-” prefixed decimal entries across trial arms"
+},
+"41835": {
+"name": "ECG/imaging safety exclusions",
+"description": "Participants must not have heart, liver, or infection-related safety risks",
+"long": "Exclusion based on ECG or imaging safety criteria: participants with cardiac risks such as QT prolongation or arrhythmia, hepatic or renal laboratory abnormalities, or infection-related concerns are excluded; the protocol includes abbreviated exclusion criteria and may involve tracer/imaging"
+},
+"42127": {
+"name": "Confirmed diagnosis of condition",
+"description": "This protocol property tells a clinician that the trial enrolled only patients whose condition was verified by established diagnostic criteria, ensuring the study population truly ",
+"long": "The trial requires objective confirmation of the cancer site or tumor description by a second diagnostic method before enrollment or randomization, as specified in dense, abbreviation-heavy eligibility criteria"
+},
+"42313": {
+"name": "Treatment response",
+"description": "This protocol property tells a clinician how the trial defines and measures whether a patient’s disease or condition meaningfully improves with the treatment being studied.",
+"long": "Defines a negative or failed response to a medical intervention, specifying the clinical condition, standard or alternative treatment, and the conditional or causal relationship between treatment and biological response, using technical terms with abbreviations"
+},
+"42326": {
+"name": "References clinical guidelines or classification systems",
+"description": "It tells the clinician that the trial’s eligibility criteria and definitions are aligned with established, standardized diagnostic or treatment frameworks, making the study populat",
+"long": "The trial aligns with established clinical guidelines or classification systems, referencing external professional standards and using specific risk scores or staging criteria in eligibility, with links to external resources, though the protocol text is fragmented"
+},
+"43441": {
+"name": "Mandated product use or adherence",
+"description": "This protocol property tells a clinician that the trial requires participants to use the study product as directed, meaning the results will reflect the drug’s effects under condit",
+"long": "The protocol mandates use of a specific investigational or commercial device, product, or drug, with eligibility criteria phrased as exclusions or requirements, clinical measurements or thresholds defining inclusion, and structured lists of conditions, procedures, or product specifications"
+},
+"44315": {
+"description": "Participants must have or be able to get a personal cell phone and internet",
+"long": "Participants must have or be able to get a personal cell phone and internet; the trial accepts healthy volunteers, is Phase 1/2, lists eligibility in bullet points, and its registration record is incomplete mid-sentence"
+},
+"44644": {
+"description": "Prior treatment must be finished before participants can be randomized",
+"long": "Prior treatment must be completed before randomization; enrollment also requires meeting an anatomical/physiological threshold, with dose adjusted by response, possible post-period crossover, sham procedures mirroring the active arm, and legally authorized consent for cognitively impaired subjects"
+},
+"45510": {
+"description": "This protocol property tells a clinician that the trial population is restricted to patients whose acne is not being actively managed with other treatments, who do not use nicotine",
+"long": "The protocol mandates washout and prohibits concomitant use of specified medications and substances, with structured eligibility criteria listing prohibited or restricted agents, exclusion conditions, and categorical technical terminology in rule-based formatting rather than narrative prose"
+},
+"45722": {
+"description": "This protocol property tells a clinician that the trial is designed to evaluate multiple different patient groups or disease subtypes under a single overarching framework, allowing",
+"long": "The protocol evaluates multiple primary disease cohorts or organ-system endpoints under one framework, using structured procedural documentation, biomedical rationale, formal eligibility criteria, and technical terminology to define distinct patient groups or subtypes"
+},
+"45750": {
+"description": "This protocol property tells a clinician that the trial only enrolls patients whose laboratory values fall within a predefined range, meaning the study population is restricted to ",
+"long": "Trial permits conditional actions based on clinical judgment or test results: re-screening or re-enrollment after failure/relapse, deviations from eligibility criteria, crossover or multi-phase interventions, optional ancillary treatment after primary failure, and requires disease sites treatable"
+},
+"45849": {
+"description": "Requires biopsy-proven cancer for enrollment",
+"long": "Requires biopsy-proven cancer for enrollment, specifically histologically or cytologically confirmed advanced/metastatic solid tumors; excludes low-grade or borderline histologies, and may focus on rare or aggressive subtypes in biomarker-defined populations using formal eligibility terminology"
+},
+"46742": {
+"description": "This protocol property tells a clinician that the trial excludes patients who are allergic to any inactive ingredients or components of the study drug.",
+"long": "The protocol specifies excipients and inactive ingredients of the investigational product, placebo, or control, including formulation comparisons, and uses this to define allergy/hypersensitivity exclusions and prior-exposure inclusion criteria"
+},
+"46854": {
+"description": "This protocol property tells a clinician that the trial only enrolls patients whose infection or disease is severe enough to meet a specific measurable cutoff, ensuring the study p",
+"long": "Trial enrolls patients meeting quantitative disease-severity cutoffs, assessed via scheduled multi-timepoint measurements, with standardized terminology codes, and compares multiple active arms against placebo using a composite primary endpoint"
+},
+"47761": {
+"description": "A fixed time window defines the required duration of a prior condition or treatment",
+"long": "A fixed time window defines the required duration of a prior condition or treatment, spanning event-to-intervention gaps, post-treatment observation phases, drug exposure periods, post-prematurity deficiency intervals, and retrospective treatment-history gaps"
+},
+"48410": {
+"name": "References prior studies/trials",
+"description": "This protocol property tells a clinician that the trial’s design, dosing, or eligibility criteria are grounded in previously tested approaches, suggesting the study population and ",
+"long": "Criteria are anchored to prior clinical studies or trial cohorts, citing NCT/protocol IDs, product identifiers, IRB/ethics numbers, and cross-protocol instructions, with structured metadata listing arms, phases, or conditions"
+},
+"49198": {
+"name": "Digitally literate with verified device access",
+"description": "Participants must have and use their own internet-connected devices for remote activities",
+"long": "Participants must have and use their own internet-connected devices for remote activities; screening requires reliable access to the technology, stable housing, proficiency in a specified spoken language, and meeting cumulative multi-step eligibility criteria"
+},
+"49209": {
+"name": "Prior targeted or pathway inhibitor therapy",
+"description": "This protocol property tells a clinician that the trial population includes patients who have already been treated with drugs aimed at specific molecular targets or signaling pathw",
+"long": "Prior exposure to a specific molecularly targeted agent or pathway inhibitor is an exclusion criterion, as described in the trial background’s dense molecular rationale for a named investigational or approved targeted therapy"
+},
+"49704": {
+"description": "This trial excludes patients with significant intestinal compromise or dependence on nutritional support, meaning its population is limited to those with intact, self-sufficient di",
+"long": "This trial excludes participants with significant intestinal compromise or dependence on nutritional support, including recent major bowel surgery, short bowel, or current enteral/parenteral nutrition. It involves a nutritional or dietary intervention for a metabolic or endocrine-related condition,"
+},
+"50707": {
+"description": "This protocol property tells a clinician that the trial is designed to evaluate patients who have more than one health condition at the same time or who are receiving more than one",
+"long": "Core property: trial eligibility requires multiple concurrent conditions or treatments. Facets: structured criteria with abbreviations and parenthetical expansions, quantitative dosing/timing, and disease severity/subtype qualifiers"
+},
+"50714": {
+"description": "Focuses on participants with specific cancer types or sites",
+"long": "Focuses on participants with specific cancer types or sites, as stated in a mid-sentence fragment from a clinical trial eligibility criterion that includes a numeric threshold or laboratory reference range, formal diagnostic classifications or disease subtypes, and a named proprietary drug,"
+},
+"51542": {
+"name": "protocol waivers permitted",
+"description": "A standard requirement can be waived under specific, predefined conditions",
+"long": "Allows exceptions or alternatives to a standard requirement, defining permitted interventions, participant characteristics, enrollment criteria, and allowed concomitant treatments in a legalistic, regulatory style"
+},
+"52319": {
+"description": "It tells the clinician that the trial is designed to test the intervention against a particular viral strain or variant, so its findings apply only to patients infected with that s",
+"long": "The trial evaluates a vaccine or immunogenicity response against a specific viral strain of global health significance, using structured eligibility criteria, mesh terms, and laboratory diagnostic biomarkers, with text shifting between narrative summary and technical specification"
+},
+"52659": {
+"description": "Tests a specific treatment plan or order of interventions",
+"long": "A structured, multi-step treatment protocol with strict eligibility criteria, combining quantitative therapy regimens and multiple imaging modalities in a scheduled sequence"
+},
+"52883": {
+"description": "This protocol property tells a clinician that the trial involves interventions such as drugs, procedures, or devices, as well as diagnostic assessments, rather than purely observat",
+"long": "Mentions of medical procedures or tests, including interventions and diagnostic assessments, appear in formal eligibility criteria, baseline measurements, rationale statements, and statistical planning, all written in an objective, impersonal tone typical of investigator-authored study design,"
+},
+"52889": {
+"name": "Prospectively documented stage/grade per classification requ",
+"description": "Patients must have a documented cancer stage or grade",
+"long": "Patients must have a prospectively documented cancer stage or grade per a specified classification, such as a numbered stage (e.g., Stage III/IV), with the staging/grading system explicitly defined and reflected in structured inclusion criteria or condition codes within the registry entry"
+},
+"53105": {
+"name": "Renal function criteria",
+"description": "Renal function thresholds define minimum kidney performance required for trial eligibility",
+"long": "Renal function thresholds define minimum kidney performance required for trial eligibility, using laboratory-measured creatinine, GFR, and proteinuria cutoffs listed as exclusion criteria to screen for impaired kidney function and organ dysfunction as a safety precaution"
+},
+"53354": {
+"name": "Measurable lesion size threshold on imaging",
+"description": "This protocol property tells a clinician that only patients with tumors large enough to be reliably detected and measured on scans were included, meaning the trial population has a",
+"long": "Requires measurable lesion size threshold on imaging: eligibility criteria specify tumor size cutoffs or ranges, with defined imaging measurement methods, often presented as registry lists or abbreviations"
+},
+"53571": {
+"description": "This property tells a clinician whether the trial’s design includes built-in rules for pausing, adjusting, or stopping the study if patient safety concerns or practical problems ar",
+"long": "Conditions that could interfere with trial conduct or safety, including strict scheduling constraints, external diagnostic confirmation, outcome-confounding conditions, mandated contraceptive or risk-avoidance behaviors, and use of a sham procedure"
+},
+"54822": {
+"description": "Treatment changes depend on test results or symptom severity",
+"long": "Treatment is adjusted based on test results or symptom severity, using a targeted interventional technique for precise anatomical delivery of a therapy expected to act through synergistic, multi-step mechanisms and stimulate a broad immune response, within a pilot or feasibility design for a larger"
+},
+"55435": {
+"description": "This protocol property tells a clinician that certain patient characteristics or circumstances in the trial population may make it difficult to reliably interpret the study's clini",
+"long": "The trial excludes participants whose pre-existing conditions could confound or destabilize assessment, using dense technical eligibility criteria to reduce data variability and ensure the treatment’s measured effect remains interpretable"
+},
+"56032": {
+"description": "Prior cancer is allowed if fully removed",
+"long": "Prior cancer is allowed if fully removed, with a curative or time-based exception; patients may be excluded for prior organ/tissue resection, re-screening is permitted after initial failure, and eligibility criteria are bullet-separated"
+},
+"56124": {
+"description": "This trial allows patients who have previously received treatment for an earlier cancer, meaning the study population includes individuals with a history of prior malignancy rather",
+"long": "Allows patients with prior or concurrent cancer therapy, including those with a history of earlier malignancy. Listed among medical conditions or eligibility criteria in a structured summary or background section, using dense technical terminology and abbreviations within a formatted data field"
+},
+"56673": {
+"description": "This trial compares the new treatment against more than one standard or alternative treatment, meaning the study population is being evaluated across several different active treat",
+"long": "This trial compares a novel monoclonal antibody (“-mab”) against multiple active comparator arms, each a distinct named drug, within a structured eligibility section that densely lists prohibited prior/concomitant medications and conditions"
+},
+"56904": {
+"description": "The trial requires that the diagnosis or relevant lab abnormality be confirmed by the institution’s own testing before a patient can be enrolled.",
+"long": "Requires institutional confirmation of diagnosis or relevant lab abnormality before enrollment, with healthcare-administered intervention, non-disease demographic/situational eligibility, recent-event or acute-status requirement, and detailed procedural instructions embedded with administrative"
+},
+"56955": {
+"name": "DSM/ICD diagnosis required",
+"description": "This protocol property tells a clinician that the trial only enrolls participants whose condition has been formally classified using standardized psychiatric diagnostic criteria, e",
+"long": "Eligibility requires a structured diagnostic interview yielding a DSM/ICD classification, with age limits and inclusion/exclusion sections listing psychiatric exclusions or diagnoses (e.g., substance use, psychotic, or mood disorders) in formal regulatory language"
+},
+"57703": {
+"description": "Patients must have a disease marker above a defined threshold",
+"long": "Patients are eligible only when a quantitative baseline biomarker or disease-severity measure exceeds a defined threshold, as specified in inclusion/exclusion criteria, randomization design, follow-up windows, ocular exclusions, and structured registry text"
+},
+"58303": {
+"name": "Prohibited concomitant medications",
+"description": "Excluded patients have contraindicated allergies or prohibited concurrent medications",
+"long": "Lists prohibited medications or drug classes in exclusion criteria, using structured fields, mesh terms, and dense comma-separated enumerations that signal eligibility screening or baseline restrictions, often referencing drug classes rather than brand names"
+},
+"58616": {
+"description": "It defines required lab values for participant eligibility",
+"long": "Defines required laboratory test thresholds or ranges for participant eligibility, including measurable biomarker criteria, specified sample processing and molecular analytes, protein-modulating interventions, and hypersensitivity exclusions for biologic agents or excipients"
+},
+"59039": {
+"description": "Prior treatment response or clinical milestones must be documented for eligibility",
+"long": "Eligibility requires documented prior treatment response or clinical milestones, including structured lists of exclusion criteria or symptoms, technical drug names with dosages and routes, and enumeration of rare disease subtypes for diagnostic classification"
+},
+"59181": {
+"name": "Specifies drug names or classes",
+"description": "Involves a specific named drug or drug class",
+"long": "Specifies a named drug or drug class, evident from clinical trial titles with proprietary or brand names, registry fields (Title, Condition, Phase, Eligibility), disease–drug pairings, trademark symbols or alternative brand names, and bracketed intervention names with descriptions"
+},
+"59968": {
+"description": "Participants must be free of chemotherapy or radiotherapy for 4 weeks before joining",
+"long": "Participants must be free of chemotherapy or radiotherapy for 4 weeks before enrollment in this cancer treatment trial, which uses radiation-based therapy and includes imaging or radiographic assessment"
+},
+"61304": {
+"description": "This protocol property tells a clinician that the trial’s results will apply to a relatively healthy population without significant immune or major organ diseases, so findings may ",
+"long": "The trial broadly excludes participants with immune-modulating conditions or comorbidities, restricting enrollment by medical, medication, or substance-use history, demographics, genetics, and organ/transplant contraindications, with criteria listed using medical abbreviations"
+},
+"61444": {
+"description": "Enrollment depends on meeting test thresholds or physician assessment",
+"long": "Enrollment is conditional on test results or clinical judgment, per protocol-defined inclusion/exclusion criteria and planned drug administration, as stated in this procedural regulatory excerpt"
+},
+"61467": {
+"description": "Prior treatment or trial participation requirements exclude recent investigational drug or device exposure",
+"long": "Prior treatment or trial participation requirements exclude recent investigational drug or device exposure, as shown in eligibility fields, inclusion criteria, and regimen or comparator descriptions distinguishing investigational products from standard-of-care, with formatting or labels sometimes"
+},
+"61496": {
+"description": "Self-reported or proxy data determine key eligibility criteria",
+"long": "Self-reported or proxy interview data determine key eligibility criteria, including condition presence via medical history and explicit inclusion/exclusion lists, with symptoms or side effects captured through scheduled questionnaires in a fragmented, list-like protocol summary"
+},
+"61535": {
+"description": "Prior or current use of specific immunosuppressive or biologic drugs is excluded",
+"long": "Prior or current use of specific immunosuppressive or biologic drugs, as captured in structured trial records and lists of inclusion/exclusion criteria, medications, allergens, or substances, alongside diagnostic thresholds and measurements"
+},
+"61918": {
+"description": "This property indicates that the trial enrolled participants who were considered capable of following the study's required tests, visits, and instructions.",
+"long": "Enrolled participants were deemed capable of completing study requirements, including third-party involvement, task-specific physical/cognitive abilities, reliable communication technology access, and absence of disqualifying conditions or consent limitations"
+},
+"61943": {
+"description": "This protocol property tells a clinician that the trial defines a specific point in a patient’s medical history—such as a prior therapy or a clinical event—that must have occurred ",
+"long": "Uses ‘since’ to anchor eligibility to a prior event or time point, requiring a condition be absent or unresolved for a defined period. It anticipates data-collection obstacles, includes provisions for participants unable to consent personally, and notes constraints of the data entry form itself"
+},
+"62393": {
+"description": "Participants must meet specific post-test or post-assessment requirements",
+"long": "A certified condition to be met after testing or assessment, with contingency rules for prior results, patient choices, and missing or unreliable data, plus fallback procedures when primary enrollment conditions cannot be met"
+},
+"63340": {
+"description": "This trial excludes individuals with current psychiatric or substance use disorders, meaning its findings apply only to a population without these conditions.",
+"long": "This trial excludes individuals with current psychiatric or substance use disorders, along with neurological conditions, contraindications, allergies, or failure to meet specific physiological/disease status requirements, limiting findings to a population without these conditions"
+},
+"63652": {
+"name": "Prior therapy washout or crossover requirement",
+"description": "This protocol property tells a clinician that the trial requires a specified drug-free interval before enrollment or restricts switching between treatment arms, ensuring that any l",
+"long": "The trial uses a crossover or sequential phase design with a washout period to eliminate prior treatment effects, restricts switching between arms, and applies a pre-defined psychiatric rating scale threshold for inclusion while excluding specific physiological states or comorbidities"
+},
+"63958": {
+"description": "This protocol property tells a clinician that the trial uses a predetermined, unchanging drug dose given over multiple treatment cycles, meaning the population is being tested for ",
+"long": "A fixed-dose, multi-cycle intravenous cytotoxic chemotherapy regimen with structured numeric dosing and scheduling parameters, explicit trial eligibility criteria, and dense parenthetical abbreviations, presented in a fragmented, list-like protocol summary format"
+},
+"64086": {
+"description": "This protocol property tells a clinician that the trial uses a height-based derived index to standardize or adjust certain measurements or dosing parameters according to patient st",
+"long": "Uses a height-based derived index to standardize or adjust measurements or dosing, with physical eligibility thresholds, exclusion criteria for pre-existing conditions or risk factors, required age ranges or life stages, and structured abbreviated clinical notation"
+},
+"64699": {
+"description": "Excluded participants have contraindicated medications or allergies",
+"long": "Lists of specific drugs or supplements to avoid, including recent or current use of contraindicated medications, immune compromise or recent vaccination, and reproductive or hormonal status, presented as a dense itemized exclusion list for a pharmaceutical intervention in a specific formulation or"
+},
+"67": {
+"description": "This protocol property indicates the specific eligibility criteria and study procedures that define which patients can be enrolled and how they will be managed during the trial."
+},
+"2493": {
+"description": "This protocol property tells a clinician that the trial restricts enrollment to patients whose disease is located in a specific anatomical site or spatial region, meaning the findi"
+},
+"3876": {
+"description": "This protocol property tells a clinician that the trial allowed treatments or procedures outside the strictly defined study plan, meaning the results reflect a more real-world mix "
+},
+"5481": {
+"description": "This protocol property tells a clinician how the trial measures and categorizes the severity or extent of disease in its participants."
+},
+"5802": {
+"description": "This protocol property tells a clinician that the trial uses a prespecified, standardized definition to determine whether a patient’s condition has improved enough to be considered"
+},
+"7288": {
+"description": "This trial excludes pregnant individuals, meaning its findings apply only to non-pregnant patients and cannot guide treatment decisions during pregnancy."
+},
+"7351": {
+"description": "This protocol property tells a clinician that the trial includes certain participants who do not meet the usual eligibility requirements, meaning the study population may be broade"
+},
+"9537": {
+"description": "This protocol property tells a clinician that the trial only enrolled patients whose disease severity or biomarker levels met a predefined clinical cutoff, meaning the results appl"
+},
+"11191": {
+"description": "This trial excludes patients with pre-existing musculoskeletal or neurological conditions, meaning its findings apply only to a population without such underlying disorders."
+},
+"15025": {
+"description": "This protocol property tells a clinician that the trial enrolled patients based on specific physical findings or formal diagnostic thresholds, meaning the study population has a co"
+},
+"16384": {
+"name": "Change in clinical status or treatment",
+"description": "This protocol property tells a clinician that the trial is designed to evaluate whether the intervention leads to a meaningful shift in the patient’s overall clinical condition or "
+},
+"16439": {
+"description": "This protocol property tells a clinician which additional or concomitant therapies are permitted during the trial, indicating the flexibility of the treatment regimen and the types"
+},
+"25443": {
+"description": "The protocol property indicates the specific medical conditions and terminology used to define the patient population being studied."
+},
+"26507": {
+"description": "The trial requires that every participant (or their legal representative) be fully informed about the study and voluntarily agree to take part before enrollment."
+},
+"28273": {
+"description": "This protocol property tells a clinician that the trial includes strict rules to prevent pregnancy during the study, meaning the population is limited to participants who can safel"
+},
+"28669": {
+"description": "The protocol specifies the exact treatments, devices, or educational materials used, so clinicians know precisely what was delivered to the study population."
+},
+"29122": {
+"description": "This protocol property tells a clinician how the trial defines and measures the specific biological or clinical parameters that determine patient eligibility or response."
+},
+"31301": {
+"name": "Changes during study",
+"description": "This protocol property indicates that the study design allowed for modifications to the treatment plan or procedures after enrollment began, meaning the clinician should interpret "
+},
+"34070": {
+"description": "This protocol property tells the clinician the specific cutoff value or allowable range used to define a clinical parameter for patient eligibility or treatment decisions."
+},
+"35789": {
+"name": "Treatment assignment",
+"description": "This protocol property tells a clinician whether each participant was randomly allocated to receive the investigational treatment or a control, which is essential for judging if ob"
+},
+"38480": {
+"description": "This protocol property tells a clinician that the trial is designed to capture and account for specific medical events or procedures that occur during the study, reflecting the cli"
+},
+"39981": {
+"name": "Numeric thresholds or ranges",
+"description": "This protocol property tells a clinician the specific cutoff values or allowable ranges used to define normal versus abnormal measurements or to determine patient eligibility and t"
+},
+"40851": {
+"description": "This protocol property tells a clinician that the trial uses predefined, objective cutoff values for laboratory or diagnostic tests to determine patient eligibility, disease status"
+},
+"41228": {
+"name": "Feasibility or possibility of actions",
+"description": "This protocol property tells a clinician whether the planned study procedures can realistically be carried out in the intended patient population and clinical setting."
+},
+"44150": {
+"description": "This protocol property tells a clinician that the trial enrolls patients whose disease has either progressed despite previous treatment or who have already finished a prior course "
+},
+"52737": {
+"description": "This protocol property tells a clinician how practical and realistic the study procedures are for the intended patient population, and how likely patients are to follow the prescri"
+},
+"55777": {
+"description": "This protocol property tells a clinician how long and how intensively patients will need to be observed after treatment ends to ensure their condition remains stable or to catch an"
+},
+"58258": {
+"name": "Thresholds/durations for physiological/behavioral measuremen",
+"description": "This property tells a clinician the specific cutoff values and time periods used to define when a patient's physiological or behavioral measurements are considered clinically meani"
+},
+"58885": {
+"description": "This protocol property tells a clinician that the trial only enrolled participants who were not pregnant and who agreed to use contraception or avoid reproduction during the study,"
+},
+"59114": {
+"description": "This trial excludes patients with a history of other cancers or an active second cancer, meaning the study population is limited to individuals whose only malignancy is the one bei"
+},
+"64070": {
+"description": "This protocol property tells a clinician that the trial only enrolls patients who have already received at least one prior line of treatment for that specific cancer type, meaning "
+}
+}
