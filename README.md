@@ -152,9 +152,14 @@ scripts/                    command-line entry points
 
 ```bibtex
 @article{shen2026saeaudit,
-  title  = {SAE-Audit: Clinical-Trial Prediction via Inference-Time Optimization of Black-Box LLMs Audited by Sparse Autoencoder Evidence},
-  author = {Shen, Junbo},
-  year   = {2026}
+  title   = {{SAE-Audit}: Clinical-Trial Prediction via Inference-Time Optimization of Black-Box {LLMs} Audited by Sparse Autoencoder Evidence},
+  author  = {Shen, Junbo},
+  journal = {arXiv preprint arXiv:2611.29368},
+  year    = {2026},
+  eprint  = {2611.29368},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.AI},
+  url     = {https://arxiv.org/abs/2611.29368}
 }
 ```
 
