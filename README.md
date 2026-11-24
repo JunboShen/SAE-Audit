@@ -1,6 +1,6 @@
 # SAE-Audit
 
-Official code for **SAE-Audit: Clinical-Trial Prediction via Inference-Time Optimization of Black-Box LLMs Audited by Sparse Autoencoder Evidence**.
+Official code for **SAE-Audit: Clinical-Trial Prediction via Inference-Time Optimization of Black-Box LLMs Audited by Sparse Autoencoder Evidence**. (Preprint: https://arxiv.org/abs/2611.29368)
 
 SAE-Audit improves a black-box LLM at inference time with evidence from a small open model. A frozen sparse autoencoder (SAE) on Llama-3.1-8B-Instruct is converted into a vocabulary of clinical concepts, each with a name that a second LLM has verified. A sparse probe fitted on past trials measures which concepts are associated with an outcome. For a new protocol, the detected concepts are written as evidence, each with the direction and strength of its association, and the LLM answers in the light of this evidence. No model is fine-tuned.
 
